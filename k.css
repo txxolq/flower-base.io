@@ -1,0 +1,495 @@
+body{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    overflow-x: hidden;
+    background-size: 100%;
+    background-attachment: fixed;
+    margin: 0;
+}
+header{
+    max-width: 100%;
+    display: block;
+}
+.menu{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    left:3vw;
+    top: 4vw;
+}
+.menu-item{
+    color: #006a84;
+    text-decoration: none;
+    font-size: 1vw;
+    margin-right: 5vw;
+}
+.logo{
+    position: absolute;
+    left: 45vw;
+    top: 2vw;
+}
+.menu2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    right:3vw;
+    top: 2vw;
+}
+.menu-item2{
+    color: #006a84;
+    text-decoration: none;
+    font-size: 1vw;
+    margin-right: 5vw;
+}
+.adm{
+    position: absolute;
+    bottom: 43vw;
+    right:-34vw;
+}
+.menu-item0{
+    color: #6f6656;
+    text-decoration: none;
+    font-size: 1vw;
+    margin-right: 4vw;
+}
+.k{
+    position: absolute;
+    left: 0vw;
+    top: 9vw;
+}
+.a{
+    position: absolute;
+    left: 30vw;
+    top: 25vw;
+}
+.b{
+    position: absolute;
+    left: 60vw;
+    top: 28vw;
+}
+.t1-slide1 {
+    position: relative;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    right: 9vw;
+    top: 12vw;
+    font-size: 2vw;
+}
+.t0-slide1 {
+    position: relative;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    right: 9vw;
+    top: 8vw;
+    font-size: 2vw;
+}
+.t2-slide1 {
+    color: #564458;
+    position: relative;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    right: 9vw;
+    top: 7vw;
+    font-size: 1vw;
+}
+.t5-slide1 {
+    position: relative;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 40vw;
+    top: -5vw;
+    font-size: 1vw;
+}
+.go{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    left:85vw;
+    top: 36vw;
+}
+.go1{
+    text-decoration: none;
+    color: #006a84;
+    font-size: 2vw;
+   
+}
+.hed-neo{
+    position: absolute;
+    left: -1vw;
+    top: 47vw;
+}
+.hed-neo1{
+    position: absolute;
+    left: 26vw;
+    top: 48vw;
+}
+.hed-neo2{
+    position: absolute;
+    left: 53vw;
+    top: 50vw;
+}
+.hed-neo3{
+    position: absolute;
+    left: 75vw;
+    top: 50vw;
+}
+.hed-t{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1vw;
+    position: absolute;
+    left: 12vw;
+    top: 52vw;
+}
+.hed-t1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1vw;
+    position: absolute;
+    left: 38vw;
+    top: 52vw;
+}
+.hed-t2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1vw;
+    position: absolute;
+    left: 60vw;
+    top: 52vw;
+}
+.hed-t3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1vw;
+    position: absolute;
+    left: 85vw;
+    top: 52vw;
+}
+
+.o{
+    color: blueviolet;
+    text-decoration:underline;
+    position: absolute;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    left: 40vw;
+    top: 63vw;
+    font-size: 2vw;
+}
+.k2{
+    position: absolute;
+    left: 0vw;
+    top: 160vw;
+}
+.o2{
+    color: blueviolet;
+    text-decoration:underline;
+    position: absolute;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    right: 30vw;
+    top: 160vw;
+    font-size: 2vw;
+}
+.mess{
+    position: absolute;
+    left: 3vw;
+    top: 173vw;
+}
+.mess2{
+    position: absolute;
+    left: 35vw;
+    top: 173vw;
+}
+.mess3{
+    position: absolute;
+    left: 67vw;
+    top: 173vw;
+}
+.about{
+    color: rgb(42, 11, 70);
+    position: relative;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    left: -56vw;
+    top: 203vw;
+    font-size: 2vw;
+}
+.about0{
+    color: rgb(42, 11, 70);
+    position: relative;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    left: -55vw;
+    top: 204vw;
+    font-size: 1vw;
+    text-align: left;
+}
+.next{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    left: 35vw;
+    top: 240vw;
+}
+.next-list{
+    text-decoration: none;
+    color: #006a84;
+    font-size: 2vw;
+}
+.foto{
+    position: absolute;
+    left:50vw;
+    top: 210vw;
+}
+.k3{
+    position: absolute;
+    left: 0vw;
+    top: 253vw;
+}
+.u1{
+    position: absolute;
+    left: 30vw;
+    top: 256vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    color: #074250;
+    font-size: 3vw;
+}
+.like{
+    position: absolute;
+    left: 2vw;
+    top: 270vw;
+}
+.line{
+    position: absolute;
+    left: 1vw;
+    top: 283vw;
+}
+.clock{
+    position: absolute;
+    left: 31vw;
+    top: 269vw;
+}
+.present{
+    position: absolute;
+    left: 32vw;
+    top: 285vw;
+}
+.card{
+    position: absolute;
+    left: 68vw;
+    top: 270vw;
+}
+.time{
+    position: absolute;
+    left: 68vw;
+    top: 284vw;
+}
+.like-t{
+    position: absolute;
+    left: 8vw;
+    top: 268vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #074250;
+    font-size: 2vw;
+}
+.clock-t{
+    position: absolute;
+    left: 38vw;
+    top: 268vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #074250;
+    font-size: 2vw;
+}
+.present-t{
+    position: absolute;
+    left: 38vw;
+    top: 283vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #074250;
+    font-size: 2vw;
+}
+.card-t{
+    position: absolute;
+    left: 76vw;
+    top: 268vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #074250;
+    font-size: 2vw;
+}
+.line-t{
+    position: absolute;
+    left: 8vw;
+    top: 281vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #074250;
+    font-size: 2vw;
+}
+.time-t{
+    position: absolute;
+    left: 76vw;
+    top: 282vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #074250;
+    font-size: 2vw;
+}
+.logo3{
+    position: absolute;
+    left: 9vw;
+    bottom: 14vw;
+}
+footer{
+    position: absolute;
+    top: 310vw;
+width: 100%;
+background:#3586ff;
+min-height: 100px;
+padding: 40px 50px;
+display: flex;
+justify-content:center;
+align-items: center;
+flex-direction: column;
+}
+footer .social_icon{
+    position: absolute;
+    top: 12vw;
+    left: 6vw;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin: 10px 0;
+    flex-wrap: wrap;
+}
+footer .social_icon li{
+    list-style: none;
+}
+footer .social_icon li a{
+    font-size: 2em;
+    color: #fff;
+    margin: 0 10px;
+    display: inline-block;
+    transition: 0.5s;
+}
+footer .social_icon li a:hover{
+    transform: translateY(-10px);
+}
+footer .social_icon li, footer .menu li{
+    list-style: none;
+}
+footer .menu li a{
+    font-size: 1.2em;
+    color: #fff;
+    margin: 0 10px;
+    display: inline-block;
+    text-decoration: none;
+    opacity: 0.75;
+}
+footer .menu li a:hover{
+    opacity: 1;
+}
+footer p{
+    color: #fff;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 10px;
+    font-size: 1em;
+}
+footer .wave{
+    position: absolute;
+    top: -100px;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background:  url(wave.png);
+    background-size: 1000px 100px;
+}
+footer .wave#wave1{
+    z-index: 1000;
+    opacity: 1;
+    bottom: 0;
+    animation: animateWave 4s linear infinite;
+}
+footer .wave#wave2{
+    z-index: 999;
+    opacity: 0.5;
+    bottom: 10px;
+    animation: animateWave_02 4s linear infinite;
+}
+
+footer .wave#wave3{
+    z-index: 1000;
+    opacity: 0.2;
+    bottom: 15px;
+    animation: animateWave 3s linear infinite;
+}
+footer .wave#wave4{
+    z-index: 999;
+    opacity: 0.7;
+    bottom: 20px;
+    animation: animateWave_02 3s linear infinite;
+}
+
+@keyframes animateWave {
+    0% {
+        background-position-x: 1000px;
+    }   
+    100% {
+        background-position-x: 0px;
+    }   
+}
+@keyframes animateWave_02 {
+    0% {
+        background-position-x: 0px;
+    }   
+    100% {
+        background-position-x: 1000px;
+    }   
+}
+.text-footer{
+    z-index: 1000;
+    position: absolute;
+    left: 5vw;
+    top: 313vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #074250;
+    font-size: 1.3em;
+}
+.icon{
+    position: absolute;
+    left: -5vw;
+    top: 0vw;
+}
+
+/* Кнопка выпадающего списка */
+.dropbtn {
+    background-color: #34cfe0;
+    color: rgb(255, 255, 255);
+    padding: 16px;
+    font-size: 15px;
+    border: none;
+  }
+  
+  /* Контейнер <div> - необходим для размещения выпадающего содержимого */
+  .dropdown {
+    position: absolute;
+    top: -4vw;
+    right: -50vw;
+    display: inline-block;
+  }
+  
+  /* Выпадающее содержимое (скрыто по умолчанию) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #2fa9f5;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Ссылки внутри выпадающего списка */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Изменение цвета выпадающих ссылок при наведении курсора */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* Показать выпадающее меню при наведении курсора */
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  /* Изменение цвета фона кнопки раскрывающегося списка при отображении содержимого раскрывающегося списка */
+  .dropdown:hover .dropbtn {background-color: #173cf8;}
+
+
+ 
